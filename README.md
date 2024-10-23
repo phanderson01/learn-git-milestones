@@ -448,7 +448,7 @@ Row | Step | Description | Completed
 13 | 10a | What is in Owen's dev branch? | a rickroll
 14 | 10b | Link to your new branch on github.com | [new branch link](https://github.com/phanderson01/learn-git-milestones/tree/phoebe-changes)
 15 | 10c | Link to your network graph | [network link](https://github.com/phanderson01/learn-git-milestones/network)
-16 | 10d | Link to the PR you made on a partner's github.com repo |
+16 | 10d | Link to the PR you made on a partner's github.com repo | [pull request](https://github.com/phanderson01/Shadows-1.0-/pull/2)
 
 
 
